@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=V_USBD_P Pin=D3-2
+Removed Pin From Net: NetName=V_USBD_N Pin=D4-2
+Added Pin To Net: NetName=USBDP Pin=D3-2
+Added Pin To Net: NetName=USBDN Pin=D4-2
+Add Differential Pair: Number of nets in differential pair V_RXD is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair V_TXD is 1 instead of 2
+Added Class: Name=DIFF_90R

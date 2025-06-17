@@ -1,0 +1,15 @@
+Added Component: Designator=J5(4PIN BURGE)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MTLW-102-05-G-D-180/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MTLW-102-05-G-D-180"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MTLW-102-05-G-D-180/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_RXD_N Pin=J5-01
+Added Pin To Net: NetName=RXD1 Pin=J5-02
+Added Pin To Net: NetName=V_TXD_P Pin=J5-03
+Added Pin To Net: NetName=TXD1 Pin=J5-04
+Add Differential Pair: Number of nets in differential pair V_RXD is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair V_TXD is 1 instead of 2
+Added Member To Class: ClassName=RS485_2 Member=Component J5 4X2 PIN
+Added Class: Name=DIFF_90R

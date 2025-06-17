@@ -1,0 +1,134 @@
+Added Component: Designator=C?(CAP CER 100pF 5%)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GCJ216R71H222KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP CER 100pF 5%)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GCJ216R71H222KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP CER 100pF 5%)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GCJ216R71H222KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP CER 100pF 5%)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GCJ216R71H222KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP CER 100pF 5%)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GCJ216R71H222KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP CER 100pF 5%)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GCJ216R71H222KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP CER 100pF 5%)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "GCJ216R71H222KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES 0805 10K 5%)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ERJ-6GEYJ103V/Panasonic+Electronic+Components/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ-6GEYJ103V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "805-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ERJ-6GEYJ103V/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ERJ-6GEYJ103V/Panasonic+Electronic+Components/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW?(Push Button)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3-1825910-1/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3-1825910-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3-1825910-1/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(ATMEGA328P-AU)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA328P-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-32 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y?(Crystal 16 Mhz SMD)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FOXSDLF/128-20/Fox+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Fox Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FOXSDLF/128-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "HC49SD Fox Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FOXSDLF/128-20/Fox+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5DC Pin=C?-1
+Added Pin To Net: NetName=+5DC Pin=C?-1
+Added Pin To Net: NetName=+5DC Pin=C?-1
+Added Pin To Net: NetName=+5DC Pin=C?-1
+Added Pin To Net: NetName=+5DC Pin=R?-1
+Added Pin To Net: NetName=+5DC Pin=U?-4
+Added Pin To Net: NetName=+5DC Pin=U?-6
+Added Pin To Net: NetName=+5DC Pin=U?-18
+Added Net: Name=+5DC
+Added Pin To Net: NetName=DTR Pin=C?-1
+Added Net: Name=DTR
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=GND Pin=SW?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-21
+Added Net: Name=GND
+Added Pin To Net: NetName=R\S\T\\ Pin=C?-2
+Added Pin To Net: NetName=R\S\T\\ Pin=R?-2
+Added Pin To Net: NetName=R\S\T\\ Pin=SW?-3
+Added Pin To Net: NetName=R\S\T\\ Pin=SW?-4
+Added Pin To Net: NetName=R\S\T\\ Pin=U?-29
+Added Net: Name=R\S\T\\
+Added Pin To Net: NetName=RXD Pin=U?-30
+Added Net: Name=RXD
+Added Pin To Net: NetName=TXD Pin=U?-31
+Added Net: Name=TXD
+Added Pin To Net: NetName=XTAL1 Pin=C?-2
+Added Pin To Net: NetName=XTAL1 Pin=U?-7
+Added Pin To Net: NetName=XTAL1 Pin=Y?-1
+Added Net: Name=XTAL1
+Added Pin To Net: NetName=XTAL2 Pin=C?-2
+Added Pin To Net: NetName=XTAL2 Pin=U?-8
+Added Pin To Net: NetName=XTAL2 Pin=Y?-2
+Added Net: Name=XTAL2
+Added Member To Class: ClassName=RS485 Member=Component C? CAP CER 22pF 5%
+Added Member To Class: ClassName=RS485 Member=Component C? CAP CER 100nF 5%
+Added Member To Class: ClassName=RS485 Member=Component C? CAP CER 100nF 5%
+Added Member To Class: ClassName=RS485 Member=Component C? CAP CER 22pF 5%
+Added Member To Class: ClassName=RS485 Member=Component C? CAP CER 100nF 5%
+Added Member To Class: ClassName=RS485 Member=Component C? CAP CER 100nF 5%
+Added Member To Class: ClassName=RS485 Member=Component C? CAP CER 100nF 5%
+Added Member To Class: ClassName=RS485 Member=Component R? RES 0805 10K 5%
+Added Member To Class: ClassName=RS485 Member=Component SW? PUSH BUTTON
+Added Member To Class: ClassName=RS485 Member=Component U? ATMEGA328P-AU
+Added Member To Class: ClassName=RS485 Member=Component Y? Crystal 16 Mhz SMD
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

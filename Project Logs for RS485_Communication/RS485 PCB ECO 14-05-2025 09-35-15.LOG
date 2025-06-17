@@ -1,0 +1,5 @@
+Change Component Description : Designator=J3 Old Description=USB Type C - Connector, Top-mount SMT, 16pos New Description=USB Type C - Connector, Top-mount SMT, 16pos | Molex Incorporated 217179-0001
+Add Differential Pair: Number of nets in differential pair V_RXD is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair V_TXD is 1 instead of 2
+Add Class Member: Failed to add class member : V_RXD
+Add Class Member: Failed to add class member : V_TXD

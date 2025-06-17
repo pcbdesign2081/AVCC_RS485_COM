@@ -1,0 +1,35 @@
+Added Component: Designator=U3(ATMEGA328P-AU)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA328P-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-32 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATMEGA328P-AU/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SNR2 Pin=U3-1
+Added Pin To Net: NetName=SNR3 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=+5DC Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=+5DC Pin=U3-6
+Added Pin To Net: NetName=XTAL1 Pin=U3-7
+Added Pin To Net: NetName=XTAL2 Pin=U3-8
+Added Pin To Net: NetName=SNR4 Pin=U3-9
+Added Pin To Net: NetName=SNR5 Pin=U3-10
+Added Pin To Net: NetName=SNR6 Pin=U3-11
+Added Pin To Net: NetName=SNR7 Pin=U3-12
+Added Pin To Net: NetName=SNR8 Pin=U3-13
+Added Pin To Net: NetName=SNR9 Pin=U3-14
+Added Pin To Net: NetName=SNR10 Pin=U3-15
+Added Pin To Net: NetName=SNR11 Pin=U3-16
+Added Pin To Net: NetName=EN Pin=U3-17
+Added Pin To Net: NetName=+5DC Pin=U3-18
+Added Pin To Net: NetName=NetC17_1 Pin=U3-20
+Added Pin To Net: NetName=GND Pin=U3-21
+Added Pin To Net: NetName=R\S\T\\ Pin=U3-29
+Added Pin To Net: NetName=V_RXD_N Pin=U3-30
+Added Pin To Net: NetName=V_TXD_P Pin=U3-31
+Added Pin To Net: NetName=SNR1 Pin=U3-32
+Add Differential Pair: Number of nets in differential pair V_RXD is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair V_TXD is 1 instead of 2
+Added Member To Class: ClassName=RS485_2 Member=Component U3 ATMEGA328P-AU
+Added Class: Name=DIFF_90R

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=NetFB2_2 Pin=C10-2
+Change Net Name : Old Net Name=NetFB2_2 New Net Name=NetC10_2
+Add Differential Pair: Number of nets in differential pair RX is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair TX is 1 instead of 2
+Add Class Member: Failed to add class member : RX
+Add Class Member: Failed to add class member : TX

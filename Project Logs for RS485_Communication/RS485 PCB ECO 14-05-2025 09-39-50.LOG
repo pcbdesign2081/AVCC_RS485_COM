@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=V_RXD_N New Net Name=RX_P
+Change Net Name : Old Net Name=V_TXD_P New Net Name=TX_N
+Add Differential Pair: Number of nets in differential pair RX is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair TX is 1 instead of 2
+Add Class Member: Failed to add class member : RX
+Add Class Member: Failed to add class member : TX

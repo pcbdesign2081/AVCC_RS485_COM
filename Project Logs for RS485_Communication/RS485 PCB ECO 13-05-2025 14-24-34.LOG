@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Add Differential Pair: Number of nets in differential pair RXD is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair TXD is 1 instead of 2
+Added Class: Name=DIFF_90R

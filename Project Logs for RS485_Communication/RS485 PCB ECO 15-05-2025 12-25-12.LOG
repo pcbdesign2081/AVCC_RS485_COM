@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=USBDP Pin=D3-2
+Removed Pin From Net: NetName=USBDN Pin=D4-2
+Change Component Description : Designator=J3 Old Description=USB Type C - Connector, Top-mount SMT, 16pos New Description=USB Type C - Connector, Top-mount SMT, 16pos | Molex Incorporated 217179-0001
+Added Pin To Net: NetName=GND Pin=J3-SH3
+Added Pin To Net: NetName=GND Pin=J3-SH4
+Change Net Name : Old Net Name=USBDN New Net Name=USBD_N
+Change Net Name : Old Net Name=USBDP New Net Name=USBD_P
+Added Pin To Net: NetName=USBDN Pin=D4-2
+Added Net: Name=USBDN
+Added Pin To Net: NetName=USBDP Pin=D3-2
+Added Net: Name=USBDP
+Added Differential Pair: Name=USBD
+Added Member To Class: ClassName=DIFF_90E Member=USBD
